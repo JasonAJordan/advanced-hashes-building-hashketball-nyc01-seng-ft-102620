@@ -9,7 +9,7 @@ def game_hash
                           {:shoe => 16},
                           {:points => 22},
                           {:rebounds => 12},
-                          {:assists => },
+                          {:assists => 12},
                           {:steals => },
                           {:blocks => },
                           {:slam_dunks => },
